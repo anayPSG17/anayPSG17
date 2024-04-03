@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: github(or discord as glebgleb17)
-- 😄 Pronouns: git/hub
+- 😄 Pronouns: git/hub(he/him)
 - ⚡ Fun fact: github
 
